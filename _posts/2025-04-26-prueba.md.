@@ -1,4 +1,15 @@
-title: "Lola-Restaurante"
-date: 2025-04-26
-<h3>Alerta de Hartura</h3>
-<p> En este restaurante te vas a dar la hartura mas deliciosa de tu vida</p>
+<!doctype html>
+<html lang=es>
+<head>
+title: Lola restaurante
+</head>
+<body>
+<header>
+<h1>Lola Restaurante<h2>
+</header>
+<main>
+</main>
+<footer>
+</footer>
+</body>
+</html>
